@@ -1,0 +1,30 @@
+1. temenku lumayan bisa html, css, js. tapi dia gatau caranya menjadi front end
+2. 
+
+jurnal pembelian ubah lagi bil
+
+113 pers bahan baku (D)
+111 kas (K)
+
+114 pers bahan penolong (D)
+111 kas (K)
+
+Produksi :
+
+1. Jurnal Pemakaian Bahan Baku 
+BDP BBB (D)
+Persediaan Bahan Baku (K)
+
+2. Jurnal Pemakaian Bahan Penolong
+BOPs (D)
+Persediaan Bahan Penolong (K)
+
+3. Jurnal Biaya Tenaga Kerja Langsung
+BDP BTK (D)
+Biaya Gaji & Upah (K)
+
+4. Jurnal Produk Jadi
+Persediaan Produk Jadi (D)
+BDP BBB (K)
+BDP BTK (K)
+BDP BOP (K)

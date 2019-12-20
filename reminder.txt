@@ -1,0 +1,7 @@
+Kosongkan Transaksi/Data Di Tabel Database
+
+1. Detail Produksi
+2. Produksi
+3. Detail Pembelian
+4. Pembelian
+5. Jurnal
